@@ -8,7 +8,9 @@ _Данный проект включает в себя разработку, н
 * [Иван Смирнов](https://github.com/IKS-cod).
 * Сергей Винников -
 # Примененные технологии:
+*Java 17;
 *Spring Boot(Maven) + web;
 *Telegram;
+*Liquibase;
 *PostgreSQL;
-*Тесты;
+*Тестирование: JUnit, Mockito.
