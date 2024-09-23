@@ -7,7 +7,7 @@ _Данный проект включает в себя разработку, н
 * [Екатерина Невзорова]().
 * [Дмитрий Гуров](https://github.com/gdsStern).
 * [Иван Смирнов](https://github.com/IKS-cod).
-* [Сергей Винников]().
+* [Сергей Винников](https://github.com/SeregaWinner).
 # Примененные технологии:
 *Java 17;
 *Spring Boot(Maven) + web;
